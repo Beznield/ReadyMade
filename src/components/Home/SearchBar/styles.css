@@ -1,0 +1,40 @@
+.searchbar-wrap{
+    box-shadow: 2px 2px 3px 4px #e1e1e1;
+    background-color: #f0f0f0;
+    width: fit-content;
+    margin: 2.5rem auto 4rem auto;
+    padding: .5rem;
+    border-radius: 5px;  
+}
+
+.searchbar-wrap form{
+    display: flex;
+    align-items: center;
+}
+.searchbar-wrap input{
+    background-color: #f0f0f0;
+    outline: none;
+    border: none;
+}
+.searchbar-wrap span{
+    padding-right: .5rem;
+    cursor: pointer;
+}
+.searchbar-wrap button{
+    outline: none;
+    border: none;
+    width: 150px;
+    padding: .3rem 5rem;
+
+    border-radius: 5px;
+    background-color: #daa5e2;
+    color: #fff;
+    font-weight: bold;
+    font-size: 15px;
+
+    
+}
+.clear{
+    color: #c28bcb;
+    padding-left: 8px;
+}

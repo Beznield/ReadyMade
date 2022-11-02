@@ -1,0 +1,10 @@
+.emptylist-wrap{
+    display: flex;
+    justify-content: center;
+
+}
+.emptylist-wrap img{
+    max-width: 400px;
+    width: 100%;
+    background: red;
+}
